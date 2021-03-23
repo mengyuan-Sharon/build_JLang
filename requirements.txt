@@ -1,0 +1,5 @@
+https://releases.llvm.org/5.0.1/cfe-5.0.1.src.tar.xz
+https://releases.llvm.org/5.0.1/llvm-5.0.1.src.tar.xz
+https://releases.llvm.org/5.0.1/clang-tools-extra-5.0.1.src.tar.xz
+https://releases.llvm.org/5.0.1/compiler-rt-5.0.1.src.tar.xz
+https://releases.llvm.org/5.0.1/libcxx-5.0.1.src.tar.xz
